@@ -1,0 +1,11 @@
+{
+  "name": "Drishti Voice & Vision AI - Multilingual Smart Assistant",
+  "description": "Multimodal Voice AI assistant featuring real-time multilingual speech, live camera vision assistance, speech-to-speech translation, and hands-free voice interaction powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
